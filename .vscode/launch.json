@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/dhruv/Documents/GitHub/Data-Extraction/microprocessor",
+      "program": "/Users/dhruv/Documents/GitHub/Data-Extraction/microprocessor/build/Debug/outDebug"
+    }
+  ]
+}
